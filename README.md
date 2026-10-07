@@ -1,16 +1,32 @@
-# React + Vite
+# 🎵 BitChord Web Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to **BitChord** - The ultimate aesthetic YouTube Music client for true audiophiles!
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Aesthetic UI:** Beautiful glassmorphism design and smooth iOS-like animations.
+- **Cross-Platform:** Available for Windows and Android (coming soon to Linux and Android TV).
+- **Responsive:** Fully optimized for both desktop and mobile screens.
+- **Image Album & Lightbox:** View beautiful galleries directly in the app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+Check out the live website here: [music.loganathanm.in](https://music.loganathanm.in)
 
-## React Compiler
+## 📥 Download Instructions
+To download the latest Windows Portable Version:
+1. Go to the [Releases Page](https://github.com/LOGANATHAN2008/Music/releases/tag/v1.8).
+2. Download the `BitChord-1.8-beta1-windows-x64-portable.zip` file from the Assets section.
+3. Extract and run!
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Development Setup
+This project uses **React** + **Vite**. To run the project locally:
 
-## Expanding the Oxlint configuration
+```bash
+# Install dependencies
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+# Run the development server
+npm run dev
+```
+
+## 📄 License
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
