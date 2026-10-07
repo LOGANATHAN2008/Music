@@ -115,7 +115,7 @@ function App() {
           <p className="subtitle">The Aesthetic YouTube Music Client for True Audiophiles</p>
           
           <div className="download-grid">
-            <a href="/BitChord-v1.8.apk" download="BitChord-v1.8.apk" className="download-card">
+            <a href="https://github.com/LOGANATHAN2008/Music/releases/download/mobile-app/BitChord-v1.8.apk" download="BitChord-v1.8.apk" className="download-card">
               <svg viewBox="0 0 24 24" fill="currentColor" className="download-icon">
                 <path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993.0004.5511-.4482.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592c.1158-.2018.046-.4593-.1558-.5751-.2018-.1158-.4593-.046-.5751.1558l-2.0161 3.4914c-1.4274-.649-3.0452-1.0094-4.7578-1.0094-1.7126 0-3.3304.3604-4.7578 1.0094L5.6001 5.4418c-.1158-.2018-.3733-.2716-.5751-.1558-.2018.1158-.2716.3733-.1558.5751l1.9973 3.4592C2.6889 11.626 0 15.6144 0 20.317h24c0-4.7026-2.6889-8.691-6.866-11.0044"/>
               </svg>
@@ -134,7 +134,7 @@ function App() {
                 <span className="download-subtitle">COMING SOON</span>
               </div>
             </div>
-            <a href="https://github.com/LOGANATHAN2008/Music/releases/download/v1.8/BitChord-1.8-beta1-windows-x64-portable.zip" download="BitChord-1.8-beta1-windows-x64-portable.zip" className="download-card">
+            <a href="https://github.com/LOGANATHAN2008/Music/releases/download/mobile-app/BitChord-1.8-beta1-windows-x64-portable.zip" download="BitChord-1.8-beta1-windows-x64-portable.zip" className="download-card">
               <svg viewBox="0 0 24 24" fill="currentColor" className="download-icon">
                 <path d="M0 3.449L9.75 2.1v9.451H0m10.949-9.602L24 0v11.4H10.949M0 12.6h9.75v9.451L0 20.699M10.949 12.6H24V24l-12.951-1.801"/>
               </svg>
